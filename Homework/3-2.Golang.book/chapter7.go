@@ -36,8 +36,4 @@ func Recfib(fibInt int) int {
 	}
 }
 
-func swapVal(x, y *int) {
-	temp := *x
-	*x = *y
-	*y = temp
-}
+
